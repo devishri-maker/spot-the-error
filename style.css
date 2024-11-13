@@ -1,0 +1,73 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.set-1 
+{
+    border: 6px double #ff6550;
+    text-align: center;
+    border-radius: 5px;
+    margin: 15% 15%;
+    border-radius: 5px;
+    margin-left: 18%;
+    margin-right: 20%;
+    
+}
+table
+{
+    color: rgb(188, 245, 179);
+    margin-left: 20%;
+    margin-top: 4%;
+    width: 600px;
+    text-align: left;
+    padding: 20px 40px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.n1
+{
+    background-color: rgb(32, 135, 133);
+}
+.n2
+{
+    background-color: rgb(211, 114, 44)
+}
+
+.n3
+{
+    background-color: rgb(66, 177, 214);
+}
+.n4
+{
+    background-color: blue;
+}
+.n5
+{
+    background-color: rgb(2, 74, 2);
+}
+.n6
+{
+    background-color: rgb(177, 56, 56);
+}
+.n7
+{
+    background-color: orangered;
+}
+.n8
+{
+    background-color: rgb(16, 177, 231);
+}
+.n9
+{
+    background-color: purple;
+}
+h2 a:hover
+{
+    color: red;
+}
+body
+{
+    background: rgb(130, 50, 205);
+}
